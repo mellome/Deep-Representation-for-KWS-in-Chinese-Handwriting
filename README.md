@@ -1,3 +1,3 @@
-# Deep-Representation-for-KWS-in-Chinese-Handwriting
+# Deep Representation for Keyword Spotting in Chinese Handwriting
 Bachelorarbeit
 *Test connection*
